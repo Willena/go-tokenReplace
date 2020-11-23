@@ -1,5 +1,8 @@
 # go-tokenReplace
 
+# Due to major bugs and a lot of unhandled scenarios, this repo is deprecated !
+# Please use https://github.com/Willena/InfluxQL-query-builder which is based on InfluxDB AST engine and works a lot better
+
 A tool to replace placeholders in string with values
 
 ## Example 
